@@ -14,6 +14,11 @@ I am a passionate software developer specializing in building high-performance a
 - ![HTMX](https://img.shields.io/badge/HTMX-2586FC?style=flat&logo=html5&logoColor=white) **HTMX** – Modern and lightweight frontend web development  
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** – Scripting, automation, and data processing
 
+### 🔹 Scripting
+- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) **Bash** – Shell scripting and automation  
+- ![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat&logo=make&logoColor=white) **Makefile** – Build automation  
+- ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=white) **Fastlane** – Mobile deployment automation  
+
 ### 🔹 Still Learning  
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) **TypeScript** – Strongly typed JavaScript for scalable applications  
 
