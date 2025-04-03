@@ -1,4 +1,4 @@
-# Hi coder 👋
+# Hi Coder 👋
 
 # 🚀 Welcome to My GitHub!
 
