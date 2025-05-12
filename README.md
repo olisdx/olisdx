@@ -20,7 +20,7 @@ I am a passionate software developer specializing in building high-performance a
 - ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=white) **Fastlane** – Mobile deployment automation  
 
 ### 🔹 Still Learning  
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) **TypeScript** – Strongly typed JavaScript for scalable applications  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) **Tailwind CSS** – Utility-first CSS framework for rapid UI development  
 
 ### 🔹 Tools & Frameworks  
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) **Docker** – Containerization  
